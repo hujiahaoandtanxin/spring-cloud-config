@@ -1,1 +1,3 @@
-
+com:
+  hujiahao:
+    client: I am the git configuration file from dev environment.

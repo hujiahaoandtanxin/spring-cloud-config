@@ -1,4 +1,4 @@
 com:
   hujiahao:
     client: 
-      config: I am the git configuration file from dev environment.
+      config: I am the git configuration file from dev environment by do refresh .
